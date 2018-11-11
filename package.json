@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/l0ger/redux-async-blue.git"
   },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  },
   "keywords": [
     "redux",
     "saga",
