@@ -1,0 +1,24 @@
+{
+  "name": "redux-async-blue",
+  "version": "1.0.0",
+  "description": "this package is created to helping reduce redux boilerplate with saga library.",
+  "main": "redux-async-blue.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l0ger/redux-async-blue.git"
+  },
+  "keywords": [
+    "redux",
+    "saga",
+    "react-native"
+  ],
+  "author": "Mehdi Geran Malek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l0ger/redux-async-blue/issues"
+  },
+  "homepage": "https://github.com/l0ger/redux-async-blue#readme"
+}
